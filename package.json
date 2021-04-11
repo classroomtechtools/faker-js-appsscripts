@@ -36,5 +36,8 @@
   "keywords": [
     "google",
     "appsscripts"
-  ]
+  ],
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
 }
